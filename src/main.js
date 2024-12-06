@@ -76,7 +76,7 @@ const translations = {
     },
     contactInfo: {
       phone: "+216 51365295",
-      email: "mr.seifeddineouesleti@gmail.com",
+      email: "helpstafftech@gmail.com",
       location: "Tunisia",
     },
     footer: "© 2024 STAFF TECH. All Rights Reserved.",
@@ -156,7 +156,7 @@ const translations = {
     },
     contactInfo: {
       phone: "+216 51365295",
-      email: "mr.seifeddineouesleti@gmail.com",
+      email: "helpstafftech@gmail.com",
       location: "Tunisie",
     },
     footer: "© 2024 STAFF TECH. Tous droits réservés.",
